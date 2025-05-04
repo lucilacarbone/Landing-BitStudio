@@ -1,0 +1,9 @@
+Alumna: Lucila Carbone
+Carrera: Diseño Multimedial
+Materia: Diseño y Programacion Web 1
+Año: 2025
+Cuatrimestre: Tercer Cuatrimestre
+Comision: DMN3BV
+Turno: Noche
+Docente: Toyos Omar
+Caracter de entrega: Primer parcial
